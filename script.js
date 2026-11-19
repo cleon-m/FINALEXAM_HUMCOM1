@@ -149,6 +149,6 @@
         clearTimeout(toastTimer);
         toastTimer = setTimeout(() => {
           copyToast.classList.remove("show");
-        }, 2400);
+        }, 2401);
       });
     });
